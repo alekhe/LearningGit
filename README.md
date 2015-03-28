@@ -4,4 +4,4 @@
 
 - [ ] Read
 - [ ] Understand
-- [ ] Learn
+- [x] Learn
